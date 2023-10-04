@@ -12,9 +12,9 @@
 
 A fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. And set up to allow users to save book searches to the back end.
 
-## Deployed Link
+## Github Link
 
-Follow [this link](/) to view deployed link!
+Follow [GitHub link](https://github.com/Marjan-MN/Book-Search-Engine/)!
 
 ## User Story
 
@@ -45,5 +45,3 @@ This is how the front-end webpage appears to viewers. It is responsive, adapting
 - [bcrypt](https://www.npmjs.com/package/bcrypt)
 - [Google Books API](https://developers.google.com/books)
 - [concurrently](https://www.npmjs.com/package/concurrently)
-
-
